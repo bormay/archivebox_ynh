@@ -3,7 +3,7 @@
   "version": "0.6.3",
   "description": "ArchiveBox: The self-hosted internet archive",
   "author": "Nick Sweeting <archivebox-npm@sweeting.me>",
-  "repository": "github:ArchiveBox/ArchiveBox",
+  "repository": "github:bormay/ArchiveBox",
   "license": "MIT",
   "dependencies": {
     "@postlight/mercury-parser": "^2.2.0",
